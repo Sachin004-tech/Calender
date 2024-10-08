@@ -52,30 +52,30 @@ $(document).ready(function() {
                 type: "holiday", // Event type (required)
                 everyYear: true // Same event every year (optional)
               },
-              {
-                id: 'Presentation', // Event's ID (required)
-                name: "Group-C", // Event name (required)
-                description:"Pallavi & Utkarsh Srivastava, Topic-AI",
-                date: "Octobar/10/2024", // Event date (required)
-                type: "holiday", // Event type (required)
-                everyYear: true // Same event every year (optional)
-              },
-              {
-                id: 'Presentation', // Event's ID (required)
-                name: "Group-C", // Event name (required)
-                description:"Sohail & Priyanshu, Topic-Cloud Computing",
-                date: "Octobar/10/2024", // Event date (required)
-                type: "holiday", // Event type (required)
-                everyYear: true // Same event every year (optional)
-              },
-              {
-                id: 'Presentation', // Event's ID (required)
-                name: "Group-C", // Event name (required)
-                description:"Rashmi & Mitali, Topic-Remote Monitoring",
-                date: "Octobar/10/2024", // Event date (required)
-                type: "holiday", // Event type (required)
-                everyYear: true // Same event every year (optional)
-              },
+              // {
+              //   id: 'Presentation', // Event's ID (required)
+              //   name: "Group-C", // Event name (required)
+              //   description:"Pallavi & Utkarsh Srivastava, Topic-AI",
+              //   date: "Octobar/10/2024", // Event date (required)
+              //   type: "holiday", // Event type (required)
+              //   everyYear: true // Same event every year (optional)
+              // },
+              // {
+              //   id: 'Presentation', // Event's ID (required)
+              //   name: "Group-C", // Event name (required)
+              //   description:"Sohail & Priyanshu, Topic-Cloud Computing",
+              //   date: "Octobar/10/2024", // Event date (required)
+              //   type: "holiday", // Event type (required)
+              //   everyYear: true // Same event every year (optional)
+              // },
+              // {
+              //   id: 'Presentation', // Event's ID (required)
+              //   name: "Group-C", // Event name (required)
+              //   description:"Rashmi & Mitali, Topic-Remote Monitoring",
+              //   date: "Octobar/10/2024", // Event date (required)
+              //   type: "holiday", // Event type (required)
+              //   everyYear: true // Same event every year (optional)
+              // },
               {
                 name: "Vacation Leave",
                 badge: "02/13 - 02/15", // Event badge (optional)
