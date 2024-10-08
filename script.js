@@ -40,7 +40,7 @@ $(document).ready(function() {
                 id: 'Presentation', // Event's ID (required)
                 name: "Group-C", // Event name (required)
                 description:"Rajat dubey & Sourabh Chetan, Topic-Data Science",
-                date: "Octobar/10/2024", // Event date (required)
+                date: "Octobar/9/2024", // Event date (required)
                 type: "holiday", // Event type (required)
                 everyYear: true // Same event every year (optional)
               },
@@ -48,6 +48,30 @@ $(document).ready(function() {
                 id: 'Presentation', // Event's ID (required)
                 name: "Group-C", // Event name (required)
                 description:"Rekhansh & Paras, Topic-Cyber-Security",
+                date: "Octobar/9/2024", // Event date (required)
+                type: "holiday", // Event type (required)
+                everyYear: true // Same event every year (optional)
+              },
+              {
+                id: 'Presentation', // Event's ID (required)
+                name: "Group-C", // Event name (required)
+                description:"Pallavi & Utkarsh Srivastava, Topic-AI",
+                date: "Octobar/10/2024", // Event date (required)
+                type: "holiday", // Event type (required)
+                everyYear: true // Same event every year (optional)
+              },
+              {
+                id: 'Presentation', // Event's ID (required)
+                name: "Group-C", // Event name (required)
+                description:"Sohail & Priyanshu, Topic-Cloud Computing",
+                date: "Octobar/10/2024", // Event date (required)
+                type: "holiday", // Event type (required)
+                everyYear: true // Same event every year (optional)
+              },
+              {
+                id: 'Presentation', // Event's ID (required)
+                name: "Group-C", // Event name (required)
+                description:"Rashmi & Mitali, Topic-Remote Monitoring",
                 date: "Octobar/10/2024", // Event date (required)
                 type: "holiday", // Event type (required)
                 everyYear: true // Same event every year (optional)
