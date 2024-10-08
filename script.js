@@ -31,6 +31,14 @@ $(document).ready(function() {
               {
                 id: 'Presentation', // Event's ID (required)
                 name: "Group-D", // Event name (required)
+                description:"Rekhansh & Paras, Topic-Cyber-Security",
+                date: "Octobar/9/2024", // Event date (required)
+                type: "holiday", // Event type (required)
+                everyYear: true // Same event every year (optional)
+              },
+              {
+                id: 'Presentation', // Event's ID (required)
+                name: "Group-E", // Event name (required)
                 description:"Vasvi soni & Saloni, Topic-BlockChain",
                 date: "Octobar/9/2024", // Event date (required)
                 type: "holiday", // Event type (required)
@@ -38,16 +46,8 @@ $(document).ready(function() {
               },
               {
                 id: 'Presentation', // Event's ID (required)
-                name: "Group-C", // Event name (required)
+                name: "Group-F", // Event name (required)
                 description:"Rajat dubey & Sourabh Chetan, Topic-Data Science",
-                date: "Octobar/9/2024", // Event date (required)
-                type: "holiday", // Event type (required)
-                everyYear: true // Same event every year (optional)
-              },
-              {
-                id: 'Presentation', // Event's ID (required)
-                name: "Group-C", // Event name (required)
-                description:"Rekhansh & Paras, Topic-Cyber-Security",
                 date: "Octobar/9/2024", // Event date (required)
                 type: "holiday", // Event type (required)
                 everyYear: true // Same event every year (optional)
