@@ -8,23 +8,23 @@ $(document).ready(function() {
                 id: 'Presentation', // Event's ID (required)
                 name: "Group-A", // Event name (required)
                 description:"Sachin & Yash, Topic-Generative AI",
-                date: "Octobar/9/2024", // Event date (required)
+                date: "Octobar/3/2024", // Event date (required)
                 type: "holiday", // Event type (required)
                 everyYear: true // Same event every year (optional)
               },
               {
                 id: 'Presentation', // Event's ID (required)
                 name: "Group-B", // Event name (required)
-                description:"Sachin & Yash, Topic-Generative AI",
-                date: "Octobar/9/2024", // Event date (required)
+                description:"Subhlakshya Tyagi & Rishi Pandey, Topic-Metaverse",
+                date: "Octobar/3/2024", // Event date (required)
                 type: "holiday", // Event type (required)
                 everyYear: true // Same event every year (optional)
               },
               {
                 id: 'Presentation', // Event's ID (required)
                 name: "Group-C", // Event name (required)
-                description:"Sachin & Yash,Generative-AI",
-                date: "Octobar/9/2024", // Event date (required)
+                description:"Nitish Kumar & Ujjwal Sharma, Topic-Neuralink: A Neuro-Technology",
+                date: "Octobar/3/2024", // Event date (required)
                 type: "holiday", // Event type (required)
                 everyYear: true // Same event every year (optional)
               },
